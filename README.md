@@ -101,13 +101,13 @@ print(result)
 # Сборка
 
 ``` bash
-cargo build --release
+builder <script.forge>
 ```
 
 # Запуск
 
 ``` bash
-cargo run -- script.forge
+cargo run -- <script.forge>
 ```
 
 ------------------------------------------------------------------------
